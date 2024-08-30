@@ -1,0 +1,14 @@
+C:\Users\Admin\Documents\GitHub\Uppgift-if-satser\bin\Debug\net8.0\Uppgift-if-satser.exe
+C:\Users\Admin\Documents\GitHub\Uppgift-if-satser\bin\Debug\net8.0\Uppgift-if-satser.deps.json
+C:\Users\Admin\Documents\GitHub\Uppgift-if-satser\bin\Debug\net8.0\Uppgift-if-satser.runtimeconfig.json
+C:\Users\Admin\Documents\GitHub\Uppgift-if-satser\bin\Debug\net8.0\Uppgift-if-satser.dll
+C:\Users\Admin\Documents\GitHub\Uppgift-if-satser\bin\Debug\net8.0\Uppgift-if-satser.pdb
+C:\Users\Admin\Documents\GitHub\Uppgift-if-satser\obj\Debug\net8.0\Uppgift-if-satser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\GitHub\Uppgift-if-satser\obj\Debug\net8.0\Uppgift-if-satser.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\GitHub\Uppgift-if-satser\obj\Debug\net8.0\Uppgift-if-satser.AssemblyInfo.cs
+C:\Users\Admin\Documents\GitHub\Uppgift-if-satser\obj\Debug\net8.0\Uppgift-if-satser.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\GitHub\Uppgift-if-satser\obj\Debug\net8.0\Uppgift-if-satser.dll
+C:\Users\Admin\Documents\GitHub\Uppgift-if-satser\obj\Debug\net8.0\refint\Uppgift-if-satser.dll
+C:\Users\Admin\Documents\GitHub\Uppgift-if-satser\obj\Debug\net8.0\Uppgift-if-satser.pdb
+C:\Users\Admin\Documents\GitHub\Uppgift-if-satser\obj\Debug\net8.0\Uppgift-if-satser.genruntimeconfig.cache
+C:\Users\Admin\Documents\GitHub\Uppgift-if-satser\obj\Debug\net8.0\ref\Uppgift-if-satser.dll
